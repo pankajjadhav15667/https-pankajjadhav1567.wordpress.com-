@@ -1,0 +1,57 @@
+<!-- wp:cover {"dimRatio":0,"overlayColor":"background","minHeight":90,"minHeightUnit":"vh","isDark":false,"align":"full"} -->
+
+<div class="wp-block-cover alignfull is-light" style="min-height:90vh"><span aria-hidden="true" class="wp-block-cover__background has-background-background-color has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"contentSize":"620px","type":"constrained"}} -->
+
+<div class="wp-block-group"><!-- wp:gallery {"linkTo":"none","align":"center"} -->
+
+<figure class="wp-block-gallery aligncenter has-nested-images columns-default is-cropped"><!-- wp:image {"id":9,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+
+<figure class="wp-block-image size-large is-style-rounded"><img src="https://pankajjadhav1567.files.wordpress.com/2022/12/download-1.jpg?w=301" alt="" class="wp-image-9"/></figure>
+
+<!-- /wp:image --></figure>
+
+<!-- /wp:gallery -->
+
+<!-- wp:heading {"textAlign":"center","level":1} -->
+
+<h1 class="wp-block-heading has-text-align-center" id="antonio-barnett">PANKAJ JADHAV</h1>
+
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"vertical"}} -->
+
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"foreground","width":100,"style":{"border":{"radius":"100px"}}} -->
+
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" style="border-radius:100px">Watch my tutorials</a></div>
+
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"foreground","width":100,"style":{"border":{"radius":"100px"}}} -->
+
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" style="border-radius:100px">Buy prints of my work</a></div>
+
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"foreground","width":100,"style":{"border":{"radius":"100px"}}} -->
+
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" style="border-radius:100px">My wish list</a></div>
+
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"foreground","width":100,"style":{"border":{"radius":"100px"}}} -->
+
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" href="https://www.instagram.com/p/Cfa1UtMDhOO/?next=%2F" style="border-radius:100px">Instagram</a></div>
+
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"foreground","width":100,"style":{"border":{"radius":"100px"}}} -->
+
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-foreground-background-color has-background wp-element-button" style="border-radius:100px">Twitter</a></div>
+
+<!-- /wp:button --></div>
+
+<!-- /wp:buttons --></div>
+
+<!-- /wp:group --></div></div>
+
+<!-- /wp:cover -->
